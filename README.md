@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🔥 Hi, I'm SaruboDev.
+I'm a Data Scientist with knowledge about:
+ - 📊 Effective and clear EDA Process;
+ - 💻 Machine Learning and Deep Learning Model creation, training and support;
+ - 📑 SQL and BigData;
+ - 🐍 Python with Frameworks like:
+   - Tensorflow
+   - Jax / Equinox
+   - Numpy
+   - Pandas
+   - MatplotLib / Seaborn
 
-<!--
-**SaruboDev/SaruboDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 My Goals
+To find and explore alternative and possibly more efficient model creation and training beyond Backpropagation and similar methods,<br>
+exploring bio-inspired techniques and algorithms that can bring new heights to AI.
