@@ -1,5 +1,5 @@
 ## 🔥 Hi, I'm SaruboDev.
-I'm a Data Scientist with knowledge about:
+I'm a Junior AI Engineer/Data Scientist with knowledge about:
  - 📊 Effective and clear EDA Process;
  - 💻 Machine Learning and Deep Learning Model creation, training and support;
  - 📑 SQL and BigData;
@@ -13,3 +13,5 @@ I'm a Data Scientist with knowledge about:
 ## 🔭 My Goals
 To find and explore alternative and possibly more efficient model creation and training beyond Backpropagation and similar methods,<br>
 exploring bio-inspired techniques and algorithms that can bring new heights to AI.
+
+Currently brainstorming about a new algorithm to optimize the training process on ANN models
