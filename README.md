@@ -1,5 +1,5 @@
 ## 🔥 Hi, I'm SaruboDev.
-I'm a Junior AI Engineer/Data Scientist with knowledge about:
+I'm a Junior AI Researcher/Data Scientist with knowledge about:
  - 📊 Effective and clear EDA Process;
  - 💻 Machine Learning and Deep Learning Model creation, training and support;
  - 📑 SQL and BigData;
