@@ -9,6 +9,7 @@ I'm a Junior AI Researcher/Data Scientist with knowledge about:
    - Numpy
    - Pandas
    - MatplotLib / Seaborn
+- 💾 Git;
 
 ## 🔭 My Goals
 To find and explore alternative and possibly more efficient model creation and training beyond Backpropagation and similar methods,<br>
