@@ -12,6 +12,7 @@ I'm a Junior Python Developer/AI Engineer with knowledge about:
 - 💾 Git;
 - FastAPI;
 - LlamaIndex;
+
 Currently studying:
 - C++;
 - Rust;
